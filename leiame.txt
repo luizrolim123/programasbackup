@@ -1,0 +1,2 @@
+Antes de executar o arquivo de a permissão como root com o comando
+chmod +x instalacao.sh
